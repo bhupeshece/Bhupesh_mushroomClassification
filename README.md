@@ -14,3 +14,4 @@
 ### step 4 - After successfully installing all the libraries just run the app by "streamlit run app.py" and the app will run successfully
 
 ## To run app directly or from cloud
+https://mushroom-classification-93pg.onrender.com/
